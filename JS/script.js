@@ -21,7 +21,7 @@ toggleButton.addEventListener("click", function() { //event handler for when the
     }
 })
 
-submitButton.addEventListener("click", function(event) { //event handler for when the submit button is clicked
+submitButton.addEventListener("click", function(event) { //event handler for when the submit button is clicked.
     event.preventDefault();
 
     let submission = {
